@@ -3,10 +3,6 @@ import ContactForm from 'components/ContactForm/ContactForm';
 import Filter from 'components/Filter/Filter';
 
 const App = () => {
-  // useEffect(() => {
-  //   localStorage.setItem('contacts list', JSON.stringify(contacts));
-  // }, [contacts]);
-
   return (
     <div>
       <h1>Phonebook</h1>
